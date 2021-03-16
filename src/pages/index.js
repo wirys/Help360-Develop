@@ -7,8 +7,9 @@ export default function IndexPage() {
 	return (
 		<Layout>
 			<Hero
-				title="Landing template for startups"
-				content="Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever."
+				title="Desculpe o Help360° ainda não está disponivel"
+				content="Aguarde mais um pouco pois já estamos trabalhando para trazer um software completo para gestão de chamados via WHATSAPP e 
+				em breve estará disponivel."
 				illustration={HeroIllustration}
 			/>
 		</Layout>

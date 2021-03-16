@@ -11,7 +11,7 @@ export default function Footer() {
 					<NavLinks className="footer-links" />
 					<SocialLinks className="footer-social-links" />
 					<div className="footer-copyright">
-						&copy; 2018 Holly, all rights reserved
+						&copy; 2021 Ideal Sistemas , todos direitos reservados
 					</div>
 				</div>
 			</div>

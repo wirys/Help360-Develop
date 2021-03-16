@@ -23,7 +23,7 @@ class NewsletterForm extends Component {
 						className="input"
 						type="email"
 						name="email"
-						placeholder="Your best email&hellip;"
+						placeholder="Digite seu email&hellip;"
 					/>
 				</div>
 				<div className="control">

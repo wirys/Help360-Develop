@@ -10,7 +10,7 @@ export default function ContactPage() {
 						<div className="entry-content">
 							<div className="container-sm">
 								<header className="entry-header">
-									<h1 className="entry-title">Contact</h1>
+									<h1 className="entry-title">Contato</h1>
 								</header>
 
 								<div className="entry-body">
